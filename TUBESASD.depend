@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449402651 source:c:\users\asus\desktop\tubesasd\main.cpp
+	"header.cpp"
+
+1449402628 c:\users\asus\desktop\tubesasd\header.cpp
+	"header.h"
+
+1449403742 c:\users\asus\desktop\tubesasd\header.h
+	<iostream>
+	<string>
+	<stdio.h>
+
